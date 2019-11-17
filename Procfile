@@ -1,0 +1,1 @@
+worker: nodex index.js
